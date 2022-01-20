@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Nathalie Santos",
+        "cpf": "00000765345",
+        "email": "nathalie@mail.com",
+        "whatsapp": "71999999999",
+        "address": {
+                    "postal_code": "41290200",
+                    "street": "Rua Oito de Novembro",
+                    "number": "387",
+                    "details": "Apto 4",
+                    "district": "Pirajá",
+                    "city_state": "Salvador/BA"
+                },
+        "delivery_metod": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+    }, 
+    "cpf_inv":{
+        "name": "Felipe Santos",
+        "cpf": "000000000765345",
+        "email": "arcoVoltai3r@mail.com",
+        "whatsapp": "7199991999",
+        "address": {
+                    "postal_code": "41290200",
+                    "street": "Rua Oito de Novembro",
+                    "number": "387",
+                    "details": "Apto 4",
+                    "district": "Pirajá",
+                    "city_state": "Salvador/BA"
+                },
+        "delivery_metod": "Moto",
+        "cnh": "images/cnh-digital.jpg"
+    }, 
+    "email_inv":{
+        "name": "Priscila Cila",
+        "cpf": "00000494561",
+        "email": "nathalie.mail.com",
+        "whatsapp": "71999999999",
+        "address": {
+                    "postal_code": "41290200",
+                    "street": "Rua Oito de Novembro",
+                    "number": "387",
+                    "details": "Apto 4",
+                    "district": "Pirajá",
+                    "city_state": "Salvador/BA"
+                },
+        "delivery_metod": "Van",
+        "cnh": "images/cnh-digital.jpg"
+    }
+}
